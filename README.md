@@ -2,6 +2,11 @@
 
 # Deploied link with Netlify
 * [Link](https://shimmering-bombolone-94c3bd.netlify.app)
+# Toolkits used in this project
+- Frontend framework: React
+- Bundle tool: npm
+- Components: JSX, Composition
+- Deploy: Netlify
 
 
 Quick start:
