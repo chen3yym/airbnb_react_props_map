@@ -5,7 +5,7 @@
 # Toolkits used in this project
 - Frontend framework: React
 - Bundle tool: npm
-- Components: JSX, Composition
+- Components: Composition
 - Deploy: Netlify
 
 
